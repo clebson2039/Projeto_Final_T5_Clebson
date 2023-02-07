@@ -1,0 +1,17 @@
+.navbar {
+    background-color: #F9C73E;
+}
+
+#icon-focal {
+    position: absolute;
+    height: 48px;
+    width: 48px;
+    left: 29px;
+    right: 26px;
+    top: 15px;
+    border-radius: 0px;
+}
+
+h1 {
+    margin-right: 100px;
+}
