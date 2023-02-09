@@ -13,3 +13,4 @@ button = document.addEventListener("change", ({target}) =>{
 
     target.checked ? changeColors(): changeColors()
 })
+
