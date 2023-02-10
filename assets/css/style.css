@@ -111,29 +111,70 @@ p {
     font-weight: 400;
 }
 
-.btn-cv {
-    display: flex;
-    justify-content: end;
-    align-items: center;
-    margin-bottom: 50px;
+.botao1 {
+    position: absolute;
+    margin-top: 5%;
+    margin-left: 68%;
+    border-radius: 50px;
+    width: 343px;
+    height: 85px;
+    font-weight: 700;
+    font-size: 32px;
+    background: #F9C73E;
+
 }
 
 .rodape {
     display: flex;
     position: absolute;
     width: 100%;
-    height: 50%;
+    height: 40%;
     left: 0px;
     top: 2203px;
     background: #F9C73E;
 }
 
-.rodape-h2{
-    display: flex;
+.rodape-h2 {
     margin-left: 45%;
     margin-bottom: 25%;
-    font-size: 36px;
+    font-size: 20px;
     font-weight: 100%;
     align-items: center;
 }
 
+.icon-rodape {
+    position: absolute;
+    justify-content: space-between;
+    left: 5%;
+    right: -0.02%;
+    top: 50%;
+    bottom: 10%;
+}
+
+.git {
+    margin-bottom: 3%;
+    margin-top: -5%;
+    font-weight: 400;
+    font-size: 36px;
+}
+
+.twt {
+    margin-bottom: 5%;
+    font-weight: 400;
+    font-size: 36px;
+}
+
+.icon-rodape2 {
+    margin-top: 5%;
+    font-weight: 400;
+    font-size: 36px;
+}
+
+.disc {
+    margin-top: 7%;
+    margin-left: 5%;
+}
+
+.link2 {
+    margin-left: -5%;
+}
